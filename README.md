@@ -17,13 +17,9 @@ A clean, minimal weather application built with Flutter. It automatically detect
 
 ## Screenshots
 
-| Splash Screen | Weather (Light) | Weather (Dark) | Settings |
-| :---: | :---: | :---: | :---: |
-|
-
-[Image of weather app splash screen]
-|  |  |  |
-
+|                Splash Screen                 |                    Weather (Light)                    |                   Weather (Dark)                    |                 Settings                  |
+|:--------------------------------------------:|:-----------------------------------------------------:|:---------------------------------------------------:|:-----------------------------------------:|
+| ![Splash Screen](./assets/readme/splash.jpg) | ![Weather (Light)](./assets/readme/weather_light.jpg) | ![Weather (Dark)](./assets/readme/weather_dark.jpg) | ![Settings](./assets/readme/settings.jpg) |
 ## How It Works
 
 1.  **`main.dart`**: Initializes the app, loads the saved theme using `ThemeProvider`, and sets up `ScreenUtilInit` for responsiveness. `ChangeNotifierProvider` is used to manage the app's theme state.

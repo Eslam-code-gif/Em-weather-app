@@ -4,7 +4,7 @@ class AppStrings {
   static const String locationDenied= 'Location permissions are denied';
   static const String locationPermanentlyDenied= 'Location permissions are permanently denied, we cannot request permissions.';
   static const String baseUrl ='https://api.openweathermap.org/data/2.5/weather';
-  static const String apiKey ='e2b3c56475e74a85746625e24309725f';
+  static const String apiKey ="YOUR_API_KEY_HERE";
   static const String basePath ='assets/animations/';
   static const String sunnyAnimation ='${basePath}sunny.json';
   static const String cloudyAnimation ='${basePath}cloudy.json';

@@ -83,7 +83,7 @@ A clean, minimal weather application built with Flutter. It automatically detect
 
 ## License
 
-Copyright (c) 2025 Abdelrahim mohamed abdelrahim ibrahim
+Copyright (c) 2025 Abdelrahim mohamed abdelrahim ibrahim (Eslam-code-gif)
 
 This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).
 

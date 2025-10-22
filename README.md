@@ -52,7 +52,7 @@ A clean, minimal weather application built with Flutter. It automatically detect
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Eslam-code-gif/minimal_weather_app.git](https://github.com/Eslam-code-gif/minimal_weather_app.git)
+    git clone https://github.com/Eslam-code-gif/Em-weather-app.git
     cd minimal_weather_app
     ```
 
